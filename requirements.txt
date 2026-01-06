@@ -1,0 +1,22 @@
+# Requirements for ADVANCED detection tools only
+# Basic tools require NO dependencies!
+
+# DNS resolution for SPF/DKIM/DMARC validation
+dnspython==2.4.2
+
+# HTTP requests for URL reputation checking
+requests==2.31.0
+
+# HTML parsing for email content analysis
+beautifulsoup4==4.12.2
+lxml==5.0.0
+
+# URL and email validation
+validators==0.22.0
+
+# Colored terminal output
+colorama==0.4.6
+
+# Optional: API integrations
+# virustotal-python==1.0.1  # Uncomment if using VirusTotal API
+# googlesafebrowsing==1.2.0  # Uncomment if using Google Safe Browsing API

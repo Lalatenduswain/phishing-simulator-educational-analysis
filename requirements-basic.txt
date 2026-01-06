@@ -1,0 +1,10 @@
+# No external dependencies required for basic tools!
+# All basic detection tools use Python 3 standard library only.
+#
+# Minimum Python version: 3.6
+#
+# Basic tools include:
+# - email_analyzer.py
+# - url_validator.py
+# - attachment_scanner.py
+# - phishing_detector.py
