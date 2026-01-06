@@ -12,6 +12,59 @@ This collection of educational materials provides comprehensive analysis of phis
 
 ## 📚 Available Materials
 
+## 🛠️ NEW: Phishing Detection Tools (Practical)
+
+### Phishing Detection Toolkit
+**Directory**: `tools/`
+
+Working Python tools for detecting phishing emails - **NO dependencies required** for basic tools!
+
+**What's Included:**
+- **Email Analyzer** (`email_analyzer.py`) - Analyze .eml files for phishing indicators
+- **URL Validator** (`url_validator.py`) - Check URLs for phishing patterns
+- **Attachment Scanner** (`attachment_scanner.py`) - Scan files for security risks
+- **Phishing Detector** (`phishing_detector.py`) - All-in-one detection tool with batch processing
+
+**Features:**
+- ✅ Uses Python standard library only (basic tools)
+- ✅ Risk scoring (0-100)
+- ✅ Batch processing for directories
+- ✅ JSON export for integration
+- ✅ Detailed reports
+- ✅ Command-line interface
+
+**Quick Start:**
+```bash
+cd tools/
+python phishing_detector.py suspicious_email.eml
+```
+
+See `tools/README.md` for complete documentation and examples.
+
+---
+
+## 📋 NEW: Security Awareness Program
+
+### Small Business Security Program
+**File**: `docs/security-awareness-program-small-business.md`
+
+Complete security awareness program tailored for small businesses (10-100 employees).
+
+**Includes:**
+- Year-round training schedule
+- Phishing simulation program
+- Incident response plans
+- Employee onboarding checklists
+- Budget-friendly tool recommendations ($500-$2000/year)
+- Templates and metrics
+- Real-world success stories
+
+**Perfect for:** Small businesses without dedicated IT security staff
+
+---
+
+## 📖 Educational Documentation
+
 ### 1. Main Technical Analysis
 **File**: `phishing-simulator-analysis.md`
 
